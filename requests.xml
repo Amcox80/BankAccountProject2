@@ -1,0 +1,14 @@
+<requests>
+    <request>
+        <firstname>Aido</firstname>
+        <email>Aido@mail.com</email>
+        <phone>12345678</phone>
+        <location>IRE</location>
+    </request>
+    <request>
+        <firstname>craig</firstname>
+        <email>craig@mail.com</email>
+        <phone>23456789</phone>
+        <location>USA</location>
+    </request>
+</requests>
